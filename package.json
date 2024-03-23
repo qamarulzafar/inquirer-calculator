@@ -1,0 +1,15 @@
+{
+  "name": "online-assignment-1",
+  "version": "1.0.0",
+  "description": "make a simple calculator using typescript , node js and inquirer",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "qamar ul zafar",
+  "license": "MIT"
+}
